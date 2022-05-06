@@ -1,0 +1,2 @@
+# Perfumenooshigoto
+Perfumeの推し事アプリの開発リポジトリ
